@@ -3,8 +3,11 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
-
-console.log("Hello");
+console.log('Hello, World!')
+console.log(7+7);
+console.log('Days Until');
+console.log("December 29th"+' 2023');
+console.log('People say "all work and no play..." but i disagree');
 
 /*  
 Next, PLAY! 
